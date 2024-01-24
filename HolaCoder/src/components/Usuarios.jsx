@@ -5,6 +5,8 @@ function Usuarios(){
 return (
 <view>
     <text>Hola, Coder!</text>
+    <text>otro texto</text>
+
 </view>
 
 )
